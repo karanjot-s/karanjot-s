@@ -1,6 +1,6 @@
-<div align="center"><img src="./header.png"></div>
+<div align="center"><img src="header.png"></div>
 
-Hey! <img src="./wave.gif" height="30px">
+Hey! <img src="wave.gif" height="30px">
 ====
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
