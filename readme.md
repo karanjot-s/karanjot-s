@@ -1,4 +1,4 @@
-<div align="center"><img src="header.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/karanjot-s/karanjot-s/master/header.png"></div>
 
 Hey! <img src="wave.gif" height="30px">
 ====
