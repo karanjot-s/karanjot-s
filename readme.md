@@ -1,6 +1,6 @@
 <div align="center"><img src="https://raw.githubusercontent.com/karanjot-s/karanjot-s/master/header.png"></div>
 
-Hey! <img src="img src="https://raw.githubusercontent.com/karanjot-s/karanjot-s/master/header.png">
+Hey! <img src="https://raw.githubusercontent.com/karanjot-s/karanjot-s/master/wave.gif" width="30px">
 ====
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
