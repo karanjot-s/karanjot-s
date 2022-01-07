@@ -33,5 +33,6 @@ You can find all my work on my [website](https://karanjot-s.github.io).
 Constact me below : <br><br>
 [<img src="https://img.icons8.com/nolan/64/instagram-new.png" width="30px">](https://instagram.com/karanjot2403 "Instagram") &nbsp;
 [<img src="https://img.icons8.com/fluent/48/000000/important-mail.png" width="30px">](mailto:karanjot2403@gmail.com "Mail") &nbsp;
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="30px"/>](https://www.linkedin.com/in/karanjot-s "Linkedin") &nbsp;
 [<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="30px">](https://t.me/contactkaranjot "Telegram")
 
