@@ -22,6 +22,7 @@ You can find all my work on my [website](https://karanjot-s.github.io).
 ![](https://img.shields.io/badge/Code-CSS_3-important?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-important?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Code-C_language-important?style=flat&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Code-React-important?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Logo-Adobe_Illustrator-important?style=flat&logo=adobe-illustrator&logoColor=white)
 ![](https://img.shields.io/badge/Design-Adobe_XD-important?style=flat&logo=adobe-xd&logoColor=white)
 ![](https://img.shields.io/badge/Shell-PowerShell-important?style=flat&logo=powershell&logoColor=white)
