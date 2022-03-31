@@ -9,7 +9,7 @@ I am Karanjot Singh, a student, developer and a tech enthusiast. I love and enjo
 👨‍💻 My Work
 ----
 
-You can find all my work on my [website](https://karanjot-s.github.io).
+You can find all my work on my [website](https://karanjotsingh.com).
 
 🔧 Tools and Languages
 ----
